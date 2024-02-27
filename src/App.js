@@ -32,7 +32,7 @@ function App(){
                 </Suspense>
             )
         }
-    }
+    }  
 
     return (
         <div className="App">
